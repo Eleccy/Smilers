@@ -1,2 +1,2 @@
 # Smilers
-RGB LED edge lit iot status lights
+RGB LED edge lit IOT status lights
